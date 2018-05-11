@@ -1,0 +1,14 @@
+﻿---
+ID: "a5f8f41a-7bb3-47b4-bd42-9049420fa1c1"
+Parent: "9f2656dc-bf8c-455a-abc9-a4a9eddd9411"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/UpdateContact/PageSettings/MapContactForm
+DB: core
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180506T175907Z

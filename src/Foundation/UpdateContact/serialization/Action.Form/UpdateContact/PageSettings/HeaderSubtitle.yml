@@ -1,0 +1,17 @@
+﻿---
+ID: "408e4d7f-86c1-41b6-a4ee-b3cd05fc6de9"
+Parent: "9f2656dc-bf8c-455a-abc9-a4a9eddd9411"
+Template: "46efcf7f-6ebb-4059-b9bf-8ef47c4f5e20"
+Path: /sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/UpdateContact/PageSettings/HeaderSubtitle
+DB: core
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "240acdcd-c405-4e49-a96a-b3caab843920"
+      Hint: Text
+      Value: Map the fields in the form to the contact details that you want to update
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180506T175749Z

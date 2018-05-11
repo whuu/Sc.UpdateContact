@@ -1,0 +1,68 @@
+<project>
+  <Metadata>
+    <metadata>
+      <PackageName />
+      <Author />
+      <Version />
+      <Revision />
+      <License />
+      <Comment />
+      <Attributes />
+      <Readme />
+      <Publisher />
+      <PostStep />
+      <PackageID />
+    </metadata>
+  </Metadata>
+  <SaveProject>True</SaveProject>
+  <Sources>
+    <xitems>
+      <Entries>
+        <x-item>/core/sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/UpdateContact/{4F4F165D-4AF2-4B6D-9D7F-D979C5D967E6}/invariant/0</x-item>
+        <x-item>/core/sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/UpdateContact/PageSettings/{9F2656DC-BF8C-455A-ABC9-A4A9EDDD9411}/invariant/0</x-item>
+        <x-item>/core/sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/UpdateContact/PageSettings/HeaderSubtitle/{408E4D7F-86C1-41B6-A4EE-B3CD05FC6DE9}/invariant/0</x-item>
+        <x-item>/core/sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/UpdateContact/PageSettings/HeaderTitle/{10C53349-4AD5-414B-8352-51A23BC3B588}/invariant/0</x-item>
+        <x-item>/core/sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/UpdateContact/PageSettings/MapContactForm/{A5F8F41A-7BB3-47B4-BD42-9049420FA1C1}/invariant/0</x-item>
+        <x-item>/core/sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/UpdateContact/PageSettings/MapContactForm/Email/{EDD8A3F2-4023-4057-BE4F-2928E92FAF43}/invariant/0</x-item>
+        <x-item>/core/sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/UpdateContact/PageSettings/MapContactForm/FirstName/{C3CE23F4-9CA4-4A4A-A042-E4AE4B58894F}/invariant/0</x-item>
+        <x-item>/core/sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/UpdateContact/PageSettings/MapContactForm/LastName/{D7F040EE-EEC0-41D9-A4E2-93B048AD1929}/invariant/0</x-item>
+        <x-item>/core/sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/UpdateContact/PageSettings/Stylesheet/{F287A908-858C-470C-A382-4A7F0A7E980D}/invariant/0</x-item>
+        <x-item>/core/sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/UpdateContact/PageSettings/ValueNotInListText/{B4818AD1-766D-4235-BF5A-A233B5AA97C7}/invariant/0</x-item>
+        <x-item>/master/sitecore/system/Settings/Forms/Submit Actions/Update Contact Details/{A2AD5D71-16B3-40A6-991D-9EAAB55017C0}/invariant/0</x-item>
+      </Entries>
+      <SkipVersions>False</SkipVersions>
+      <Converter>
+        <ItemToEntryConverter>
+          <Transforms />
+        </ItemToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>action definition items</Name>
+    </xitems>
+    <xfiles>
+      <Entries>
+        <x-item>/bin/Sc.UpdateContact.dll</x-item>
+        <x-item>/bin/Sc.UpdateContact.pdb</x-item>
+        <x-item>/sitecore/shell/client/Applications/FormsBuilder/Layouts/Actions/UpdateContact.js</x-item>
+      </Entries>
+      <Converter>
+        <FileToEntryConverter>
+          <Root>/</Root>
+          <Transforms />
+        </FileToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>action files</Name>
+    </xfiles>
+  </Sources>
+  <Converter>
+    <TrivialConverter>
+      <Transforms />
+    </TrivialConverter>
+  </Converter>
+  <Include />
+  <Exclude />
+  <Name />
+</project>

@@ -1,0 +1,17 @@
+﻿---
+ID: "b4818ad1-766d-4235-bf5a-a233b5aa97c7"
+Parent: "9f2656dc-bf8c-455a-abc9-a4a9eddd9411"
+Template: "46efcf7f-6ebb-4059-b9bf-8ef47c4f5e20"
+Path: /sitecore/client/Applications/FormsBuilder/Components/Layouts/Actions/UpdateContact/PageSettings/ValueNotInListText
+DB: core
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "240acdcd-c405-4e49-a96a-b3caab843920"
+      Hint: Text
+      Value: value not in selection list
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180506T175824Z

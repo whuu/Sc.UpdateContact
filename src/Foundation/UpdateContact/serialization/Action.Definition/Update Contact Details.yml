@@ -1,0 +1,31 @@
+﻿---
+ID: "a2ad5d71-16b3-40a6-991d-9eaab55017c0"
+Parent: "891e7268-fa3e-4e74-b4b1-c16b206f2165"
+Template: "c2d1d114-3cfe-4558-a9e3-d1a1ec0fcab7"
+Path: /sitecore/system/Settings/Forms/Submit Actions/Update Contact Details
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Apps/16x16/user.png
+- ID: "2c6e7306-2871-473a-9149-71443182b8e8"
+  Hint: Model Type
+  Value: Sc.UpdateContact.SubmitActions.UpdateContact
+- ID: "d83b5c6b-7230-419f-bd75-4e2d20c87a18"
+  Hint: Editor
+  Value: "{4F4F165D-4AF2-4B6D-9D7F-D979C5D967E6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20180506T182905Z
+    - ID: "47837625-b3d9-46f1-a73b-ff13dd1c8b25"
+      Hint: Error Message
+      Value: "Update contact failed!"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
