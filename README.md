@@ -10,6 +10,7 @@ https://doc.sitecore.net/sitecore_experience_platform/digital_marketing/sitecore
 ## Installation
 
 * In Content Management or Standalone server install [Sc.UpdateContact-1.0.zip](sc.package) using Sitecore Installation Wizard.
+* In Content Delivery copy Sc.UpdateContact.dll from package zip to bin directory
 
 ## Manual Installation/Install from Source
 
