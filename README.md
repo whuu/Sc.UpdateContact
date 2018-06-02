@@ -1,6 +1,6 @@
 # Sc.UpdateContact
 
-Action allows to map Contact facets to form fields and update it via xConnect:
+Sitecore Forms Submit action allowing to map Contact facets to form fields and update it via xConnect:
 
 ![Update Contact Action](documentation/update-contact.png)
 
